@@ -9,13 +9,16 @@ Who should use it?
 Anyone that's interested.
 
 
-What applications will I need to create my custom mande Unify screensaver?
---------------------------------------------------------------------------
+How can I customize the screensaver?
+------------------------------------
 
-- InstantStorm (www.instantstorm.com) which is freeware
-- Adobe Flash (www.adobe.com) which costs a whole lot of money! ($$$)
+- InstantStorm (www.instantstorm.com) which is freeware.
+- Adobe Flash (www.adobe.com) which costs a whole lot of money! ($$$).
 
-- Inkscape
+
+What if I want to make a wallpaper?
+-----------------------------------
+- Inkscape (www.inkscape.org) opensource software ;-) <3
 
 Alternatively, to edit the 3 imagems from the current Unify screensaver you'll only need Inkscape 0.48 (or any other SVG vector graphics editor. Illustrator, Corel DRAW! to do the job).
 
